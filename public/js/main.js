@@ -25,7 +25,30 @@
 // console.log(nbr3(50,5));
 
 // EXO 5
-let nbr4 = (a,b) => {
-    return `${a} % ${b} = ${a%b}`
+// let nbr4 = (a,b) => {
+//     return `${a} % ${b} = ${a%b}`
+// }
+// console.log(nbr4(25,5));
+
+// EXO 6
+// let nbr5 = (a) => {
+//     return  (Math.sqrt((a)));
+// }
+// console.log(nbr5(36));
+
+// EXO 7
+// let nbr6 = (a,b) => {
+//     return (Math.pow(a,b))
+// }
+// console.log(nbr6(10,4));
+
+// EXO 8
+// let nbr7 = (a) => {
+//     return a.charAt(0).toUpperCase() + a.slice(1)
+// }
+// console.log(nbr7('okK'));
+
+// EXO 9
+let nbr8 = (a,b,c) => {
+    return 'a'
 }
-console.log(nbr4(25,5));
